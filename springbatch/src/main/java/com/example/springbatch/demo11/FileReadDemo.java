@@ -31,8 +31,8 @@ public class FileReadDemo {
     private ItemWriter<? super Customer> flatFileWrite1;
 
     @Bean
-    public Job fileReadDemoJob1() {
-        return jobBuilderFactory.get("fileReadDemoJob1")
+    public Job fileReadDemoJob2() {
+        return jobBuilderFactory.get("fileReadDemoJob2")
                 .start(fileReadStep1())
                 .build();
     }

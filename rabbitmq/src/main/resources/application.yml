@@ -1,0 +1,12 @@
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: admin
+    password: 123456
+    virtual-host: /test
+    listener:
+      simple:
+        #acknowledge-mode: manual #设置确认模式手工确认
+        concurrency: 3 #消费者最小数量
+        max-concurrency: 10 # 消费者最大数量

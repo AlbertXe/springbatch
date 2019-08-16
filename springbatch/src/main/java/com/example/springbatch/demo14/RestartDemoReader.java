@@ -1,6 +1,6 @@
 package com.example.springbatch.demo14;
 
-import com.example.springbatch.demo12.Customer;
+import com.example.springbatch.demo11.Customer;
 import org.springframework.batch.item.*;
 import org.springframework.batch.item.file.FlatFileItemReader;
 import org.springframework.batch.item.file.mapping.DefaultLineMapper;

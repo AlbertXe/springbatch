@@ -1,6 +1,6 @@
 package com.example.springbatch.demo13;
 
-import com.example.springbatch.demo12.Customer;
+import com.example.springbatch.demo11.Customer;
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;
 import org.springframework.batch.core.configuration.annotation.JobBuilderFactory;
@@ -9,6 +9,7 @@ import org.springframework.batch.core.configuration.annotation.StepScope;
 import org.springframework.batch.item.ItemReader;
 import org.springframework.batch.item.ItemWriter;
 import org.springframework.batch.item.file.FlatFileItemReader;
+import org.springframework.batch.item.file.FlatFileItemWriter;
 import org.springframework.batch.item.file.MultiResourceItemReader;
 import org.springframework.batch.item.file.ResourceAwareItemReaderItemStream;
 import org.springframework.batch.item.file.mapping.DefaultLineMapper;
@@ -31,8 +32,7 @@ public class MultiReadDemo {
     private StepBuilderFactory stepBuilderFactory;
     @Value("classpath:file*.txt")
     private Resource[] resources;
-    @Autowired
-    private ItemWriter<? super Customer> xmlItemWriter;
+
 
     @Bean
     public Job multiFileReadDemo() {
@@ -47,8 +47,13 @@ public class MultiReadDemo {
         return stepBuilderFactory.get("multiReadStep")
                 .<Customer, Customer>chunk(100)
                 .reader(multiReader())
-                .writer(xmlItemWriter)
+                .writer(xmlItemWriter())
                 .build();
+    }
+    @Bean
+    @StepScope
+    public ItemWriter xmlItemWriter() {
+        return new FlatFileItemWriter();
     }
 
     @Bean
