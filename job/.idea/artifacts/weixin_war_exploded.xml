@@ -1,0 +1,39 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="weixin:war exploded">
+    <output-path>$PROJECT_DIR$/weixin/target/weixin</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>weixin</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="weixin" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.5" />
+          <element id="library" level="project" name="Maven: javax.servlet.jsp:jsp-api:2.1" />
+          <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
+          <element id="library" level="project" name="Maven: taglibs:standard:1.1.2" />
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.1.41" />
+          <element id="library" level="project" name="Maven: displaytag:displaytag:1.2" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.1" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.3" />
+          <element id="library" level="project" name="Maven: com.lowagie:itext:1.3" />
+          <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.7.0" />
+          <element id="library" level="project" name="Maven: org.slf4j:jcl104-over-slf4j:1.4.2" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.4.2" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.4.2" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.13" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/weixin/target/weixin/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="weixin/web/Web" />
+    </root>
+  </artifact>
+</component>

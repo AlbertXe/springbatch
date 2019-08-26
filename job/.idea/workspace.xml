@@ -1,0 +1,1366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="weixin:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7fd8335c-75d4-4ab1-b9f1-fb68d367f1f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/artifacts/james_mvc_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/artifacts/james_mvc_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/artifacts/web1_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/artifacts/web1_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_mchange_c3p0_0_9_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_zaxxer_HikariCP_java6_2_3_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__javax_servlet_servlet_api_3_0_alpha_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_quartz_scheduler_quartz_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quartz/Quartz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quartz/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quartz/src/main/java/hello/HelloJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quartz/src/main/java/hello/HelloQuartz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quartz/src/main/java/hello/HelloSheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quartz/src/main/resources/quartz.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vue/Vue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vue/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vue/src/main/java/Buf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vue/src/main/java/JVMTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vue/src/main/java/helloVue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/self_study_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/self_study_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/weixin_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/weixin_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_1_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_lowagie_itext_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__displaytag_displaytag_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jdom_jdom_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl104_over_slf4j_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_unknown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/BankMoudle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/cache/RequestCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/BankCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/BreakMonitorHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/CommonUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/HttpUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/JedisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/NIOServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/ReadJedisQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/SystemConf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/Tool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/WXHttps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/WeiXinHttps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/XmlUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/interceptor/MsgSendHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/interceptor/WeiXinSafeInteceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/message/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/message/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/message/ITitaMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/message/gzb/QueryPlatFormHeadXmlBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/message/gzb/QueryPlatFormReqXmlBeanTQ100001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/message/gzb/QueryPlatformReqBodyXmlBeanTQ100001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/pojo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/template/debit/1001.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/template/debit/TcpMeta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/test/BuilderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/test/HttpTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/test/ToolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/test/XmlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankMoudle/src/test/java/json/JsonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CommMoudle/CommMoudle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CommMoudle/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_study/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_study/self_study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_study/src/main/java/thread/visitCity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weixin/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weixin/src/main/java/weixin/TbMenuNews.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weixin/src/main/java/weixin/WeinXinCustomMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weixin/src/main/java/weixin/WxMenuText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weixin/src/main/java/weixin/pojo/ReqMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weixin/src/main/webapp/WEB-INF/lib/springloaded-1.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weixin/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weixin/src/main/webapp/pages/6508/common.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weixin/src/main/webapp/pages/6508/lmtAdjustLS.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weixin/src/main/webapp/pages/6508/quickPass.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weixin/src/main/webapp/resources/js/6508/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weixin/src/main/webapp/resources/js/6508/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weixin/src/main/webapp/resources/js/6508/limitAdjust.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weixin/weixin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web1/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web1/src/main/java/test/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web1/web1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/src/site/apt/index.apt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/src/site/markdown/markdown-velocity.md.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/src/site/markdown/markdown.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/src/site/site.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/test1.iml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/BankMoudle/target/" />
+    <ignored path="$PROJECT_DIR$/CommMoudle/target/" />
+    <ignored path="$PROJECT_DIR$/weixin/target/" />
+    <ignored path="$PROJECT_DIR$/self_study/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3360">
+              <caret line="112" column="59" selection-start-line="112" selection-start-column="59" selection-end-line="112" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/weixin/src/main/webapp/pages/6508/quickPass.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/CommonUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="930">
+              <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin/src/main/webapp/pages/6508/lmtAdjustLS.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/self_study/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1650">
+              <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin/src/main/webapp/pages/6508/common.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="XML" />
+        <option value="jsf" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/BreakMonitorHandler.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/Tool.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/message/gzb/QueryPlatformReqBodyXmlBeanTQ100001.java" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/message/gzb/QueryPlatFormHeadXmlBean.java" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/message/gzb/QueryPlatFormReqXmlBeanTQ100001.java" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/message/gzb/Builder.java" />
+        <option value="$PROJECT_DIR$/CommMoudle/pom.xml" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/message/ITitaMsg.java" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/test/BuilderTest.java" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/message/TcpMeta.fxml" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/template/debit/TcpMeta.xml" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/template/debit/1001.xml" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/message/Builder.java" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/message/Constant.java" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/HttpUtil.java" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/test/HttpTest.java" />
+        <option value="$PROJECT_DIR$/BankMoudle/pom.xml" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/WeiXinSafeInteceptor.java" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/RequestCache.java" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/interceptor/WeiXinSafeInteceptor.java" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/cache/RequestCache.java" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/interceptor/MsgSendHandler.java" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/WeiXinHttps.java" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/test/java/JsonTest.java" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/test/java/json/JsonTest.java" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/WXHttps.java" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/JedisUtil.java" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/ReadJedisQueue.java" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/NIOServer.java" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/BankCache.java" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/BreakMonitorHandler.java" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/SystemConf.java" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/pojo/Person.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/webapp/resources/js/6508/limitAdjust.js" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/weixin/TbMenuNews.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/weixin/ReqMsg.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/weixin/pojo/ReqMsg.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/weixin/WxMenuText.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/java/weixin/WeinXinCustomMsg.java" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/test/ToolTest.java" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/Tool.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/webapp/pages/6508/common.xhtml" />
+        <option value="$PROJECT_DIR$/weixin/src/main/webapp/pages/6508/common.jsp" />
+        <option value="$PROJECT_DIR$/weixin/src/main/webapp/pages/6508/lmtAdjustLS.jsp" />
+        <option value="$PROJECT_DIR$/self_study/src/main/java/visitCity.java" />
+        <option value="$PROJECT_DIR$/self_study/pom.xml" />
+        <option value="$PROJECT_DIR$/self_study/src/main/java/thread/visitCity.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/webapp/hello.jsp" />
+        <option value="$PROJECT_DIR$/weixin/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/weixin/pom.xml" />
+        <option value="$PROJECT_DIR$/weixin/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/CommonUtil.java" />
+        <option value="$PROJECT_DIR$/weixin/src/main/webapp/pages/6508/quickPass.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Java/apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="260" />
+    <option name="y" value="25" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554365688583" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/self_study/src/main/java" />
+    <property name="last_opened_file_path" value="D:/work" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="weixin" />
+      <recent name="cupdweb.common" />
+      <recent name="cupdweb.interceptor" />
+      <recent name="cupdweb.message" />
+      <recent name="cupdweb.message.gzb" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaIdea\job\weixin\src\main\webapp\WEB-INF\lib" />
+      <recent name="D:\javaIdea\job\weixin\src\main\webapp\resources\js\6508" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.weixin">
+    <configuration name="ToolTest.test10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankMoudle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cupdweb.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cupdweb.test" />
+      <option name="MAIN_CLASS_NAME" value="cupdweb.test.ToolTest" />
+      <option name="METHOD_NAME" value="test10" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToolTest.test11" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankMoudle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cupdweb.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cupdweb.test" />
+      <option name="MAIN_CLASS_NAME" value="cupdweb.test.ToolTest" />
+      <option name="METHOD_NAME" value="test11" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToolTest.test8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankMoudle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cupdweb.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cupdweb.test" />
+      <option name="MAIN_CLASS_NAME" value="cupdweb.test.ToolTest" />
+      <option name="METHOD_NAME" value="test8" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToolTest.test9" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankMoudle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cupdweb.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cupdweb.test" />
+      <option name="MAIN_CLASS_NAME" value="cupdweb.test.ToolTest" />
+      <option name="METHOD_NAME" value="test9" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="visitCity.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="self_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="thread" />
+      <option name="MAIN_CLASS_NAME" value="thread.visitCity" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="weixin" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.41" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="weixin:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_job" />
+        <option name="HTTP_PORT" value="8080" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54069" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="weixin:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ToolTest.test8" />
+      <item itemvalue="JUnit.ToolTest.test9" />
+      <item itemvalue="JUnit.ToolTest.test10" />
+      <item itemvalue="JUnit.ToolTest.test11" />
+      <item itemvalue="JUnit.visitCity.test1" />
+      <item itemvalue="Tomcat Server.weixin" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.visitCity.test1" />
+        <item itemvalue="JUnit.ToolTest.test11" />
+        <item itemvalue="JUnit.ToolTest.test10" />
+        <item itemvalue="JUnit.ToolTest.test9" />
+        <item itemvalue="JUnit.ToolTest.test8" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fd8335c-75d4-4ab1-b9f1-fb68d367f1f6" name="Default Changelist" comment="" />
+      <created>1552271858844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552271858844</updated>
+      <workItem from="1552271860442" duration="12110000" />
+      <workItem from="1552379933868" duration="3871000" />
+      <workItem from="1552439491696" duration="12389000" />
+      <workItem from="1552529639202" duration="9789000" />
+      <workItem from="1552612637282" duration="12550000" />
+      <workItem from="1553062845977" duration="3839000" />
+      <workItem from="1553130877077" duration="6149000" />
+      <workItem from="1553171947657" duration="764000" />
+      <workItem from="1553478052575" duration="4728000" />
+      <workItem from="1553562611497" duration="14997000" />
+      <workItem from="1553651681912" duration="13083000" />
+      <workItem from="1553735400150" duration="5156000" />
+      <workItem from="1553741309645" duration="9201000" />
+      <workItem from="1553776104100" duration="4189000" />
+      <workItem from="1553821857722" duration="186000" />
+      <workItem from="1553850090582" duration="606000" />
+      <workItem from="1554195338360" duration="2498000" />
+      <workItem from="1554254996030" duration="2474000" />
+      <workItem from="1554348653818" duration="4273000" />
+      <workItem from="1555550299474" duration="1211000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ToolTest_test9 - 2019.03.26 at 17h 40m 06s.xml">
+      <configuration name="ToolTest.test9" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ToolTest_test9 - 2019.03.26 at 17h 40m 18s.xml">
+      <configuration name="ToolTest.test9" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ToolTest_test10 - 2019.03.28 at 11h 18m 10s.xml">
+      <configuration name="ToolTest.test10" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ToolTest_test10 - 2019.03.28 at 11h 19m 52s.xml">
+      <configuration name="ToolTest.test10" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ToolTest_test10 - 2019.03.28 at 11h 20m 14s.xml">
+      <configuration name="ToolTest.test10" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ToolTest_test11 - 2019.03.28 at 16h 58m 26s.xml">
+      <configuration name="ToolTest.test11" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="visitCity_test1 - 2019.03.28 at 17h 21m 12s.xml">
+      <configuration name="visitCity.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="visitCity_test1 - 2019.03.28 at 17h 23m 01s.xml">
+      <configuration name="visitCity.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="visitCity_test1 - 2019.03.28 at 17h 24m 02s.xml">
+      <configuration name="visitCity.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="visitCity_test1 - 2019.03.28 at 20h 50m 47s.xml">
+      <configuration name="visitCity.test1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="124063000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1716418" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32929516" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39977974" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32929516" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32929516" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32929516" />
+      <window_info anchor="bottom" id="Problems" order="11" weight="0.32929516" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32929516" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32929516" />
+      <window_info anchor="bottom" id="Spring" order="15" />
+      <window_info anchor="bottom" id="Application Servers" order="16" weight="0.32929516" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/test/BuilderTest.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/test/HttpTest.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/Tool.java</url>
+          <line>107</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/test/ToolTest.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/weixin/src/main/webapp/resources/js/6508/limitAdjust.js</url>
+          <line>31</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/weixin/src/main/webapp/pages/6508/lmtAdjustLS.jsp</url>
+          <line>24</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CommMoudle/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/jdom/jdom/1.0/jdom-1.0-sources.jar!/org/jdom/Element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="80" column="13" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/template/debit/1001.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/message/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="273" selection-start-line="273" selection-end-line="273" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/test/BuilderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/message/Builder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-337">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#1317#1512#0" expanded="true" />
+            <element signature="e#1511#1512#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/HttpUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="58" column="9" lean-forward="true" selection-start-line="50" selection-start-column="8" selection-end-line="58" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_144/jre/lib/rt.jar!/javax/net/ssl/SSLContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_144/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="307" column="64" lean-forward="true" selection-start-line="307" selection-start-column="64" selection-end-line="307" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/WeiXinHttps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="48" column="47" lean-forward="true" selection-start-line="48" selection-start-column="47" selection-end-line="48" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankMoudle/src/test/java/json/JsonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/interceptor/WeiXinSafeInteceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="48" column="42" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/interceptor/MsgSendHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/test/HttpTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/WXHttps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="initializer##0;class#WXHttps#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/NIOServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="46" column="42" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/BreakMonitorHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/pojo/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/SystemConf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="initializer##0;class#SystemConf#0" />
+            <element signature="e#1016#1017#0" expanded="true" />
+            <element signature="e#1071#1072#0" expanded="true" />
+            <element signature="e#1117#1118#0" expanded="true" />
+            <element signature="e#1156#1157#0" expanded="true" />
+            <element signature="e#1184#1185#0" expanded="true" />
+            <element signature="e#1233#1234#0" expanded="true" />
+            <element signature="e#1273#1274#0" expanded="true" />
+            <element signature="e#1314#1315#0" expanded="true" />
+            <element signature="e#1344#1345#0" expanded="true" />
+            <element signature="e#1397#1398#0" expanded="true" />
+            <element signature="e#1441#1442#0" expanded="true" />
+            <element signature="e#1479#1480#0" expanded="true" />
+            <element signature="e#1506#1507#0" expanded="true" />
+            <element signature="e#1553#1554#0" expanded="true" />
+            <element signature="e#1591#1592#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/BankCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_144/src.zip!/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2190">
+          <caret line="96" column="20" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/ReadJedisQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/JedisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/cache/RequestCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="69" column="21" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankMoudle/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="45" column="44" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/webapp/resources/js/6508/limitAdjust.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2250">
+          <caret line="75" column="29" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CommMoudle/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/net/sf/json-lib/json-lib/2.4/json-lib-2.4.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/weixin/pojo/ReqMsg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding>
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#910#911#0" expanded="true" />
+            <element signature="e#944#945#0" expanded="true" />
+            <element signature="e#974#975#0" expanded="true" />
+            <element signature="e#1020#1021#0" expanded="true" />
+            <element signature="e#1058#1059#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/weixin/WxMenuText.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
+            <element signature="e#858#859#0" expanded="true" />
+            <element signature="e#888#889#0" expanded="true" />
+            <element signature="e#934#935#0" expanded="true" />
+            <element signature="e#972#973#0" expanded="true" />
+            <element signature="e#1006#1007#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
+            <element signature="e#1082#1083#0" expanded="true" />
+            <element signature="e#1120#1121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/weixin/WeinXinCustomMsg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_144/src.zip!/java/util/Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-974">
+          <caret line="378" column="28" selection-start-line="378" selection-start-column="28" selection-end-line="378" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/java/weixin/TbMenuNews.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/test/ToolTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1441#1442#0" expanded="true" />
+            <element signature="e#1461#1462#0" expanded="true" />
+            <element signature="e#1566#1567#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/webapp/pages/6508/common.xhtml" />
+    <entry file="file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/Tool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="133" selection-start-line="133" selection-end-line="133" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getLocalAddress#0;class#Tool#0" />
+            <element signature="method#getParam#0;class#Tool#0" />
+            <element signature="method#getYMDHms#0;class#Tool#0" />
+            <element signature="method#getLastDate#0;class#Tool#0" />
+            <element signature="method#getNextDate#0;class#Tool#0" />
+            <element signature="method#getPrevMonth#0;class#Tool#0" />
+            <element signature="method#getDateN#0;class#Tool#0" />
+            <element signature="method#MD5#0;class#Tool#0" />
+            <element signature="method#fillString#0;class#Tool#0" />
+            <element signature="method#getPrintList#0;class#Tool#0" />
+            <element signature="method#trimHex#0;class#Tool#0" />
+            <element signature="method#getRandomString#0;class#Tool#0" />
+            <element signature="method#toAmt#0;class#Tool#0" />
+            <element signature="method#isNum#0;class#Tool#0" />
+            <element signature="method#fmtCard#0;class#Tool#0" />
+            <element signature="method#fmtMobile#0;class#Tool#0" />
+            <element signature="method#mapToGet#0;class#Tool#0" />
+            <element signature="method#daysBetween#0;class#Tool#0" />
+            <element signature="method#jsonToMap#0;class#Tool#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/webapp/resources/js/6508/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="52" lean-forward="true" selection-start-column="52" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_144/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="67" column="31" lean-forward="true" selection-start-line="67" selection-start-column="31" selection-end-line="67" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self_study/src/main/java/thread/visitCity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/webapp/resources/js/6508/jquery.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3360">
+          <caret line="112" column="59" selection-start-line="112" selection-start-column="59" selection-end-line="112" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankMoudle/src/main/java/cupdweb/common/CommonUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/webapp/pages/6508/lmtAdjustLS.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self_study/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/webapp/pages/6508/common.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/src/main/webapp/pages/6508/quickPass.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>weixin:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>weixin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BankMoudle/BankMoudle.iml" filepath="$PROJECT_DIR$/BankMoudle/BankMoudle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommMoudle/CommMoudle.iml" filepath="$PROJECT_DIR$/CommMoudle/CommMoudle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/self_study/self_study.iml" filepath="$PROJECT_DIR$/self_study/self_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin/weixin.iml" filepath="$PROJECT_DIR$/weixin/weixin.iml" />
+    </modules>
+  </component>
+</project>

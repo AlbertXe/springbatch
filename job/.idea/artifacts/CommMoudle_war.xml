@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CommMoudle:war">
+    <output-path>$PROJECT_DIR$/CommMoudle/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>CommMoudle</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="CommMoudle.war">
+      <element id="artifact" artifact-name="CommMoudle:war exploded" />
+    </root>
+  </artifact>
+</component>

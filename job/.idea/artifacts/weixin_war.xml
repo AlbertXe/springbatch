@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="weixin:war">
+    <output-path>$PROJECT_DIR$/weixin/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>weixin</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="weixin.war">
+      <element id="artifact" artifact-name="weixin:war exploded" />
+    </root>
+  </artifact>
+</component>
